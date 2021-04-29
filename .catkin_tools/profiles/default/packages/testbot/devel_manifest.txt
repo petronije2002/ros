@@ -1,0 +1,5 @@
+testbot
+/home/pera/catkin_ws/devel/.private/testbot/cmake.lock /home/pera/catkin_ws/devel/./cmake.lock
+/home/pera/catkin_ws/devel/.private/testbot/lib/pkgconfig/testbot.pc /home/pera/catkin_ws/devel/lib/pkgconfig/testbot.pc
+/home/pera/catkin_ws/devel/.private/testbot/share/testbot/cmake/testbotConfig.cmake /home/pera/catkin_ws/devel/share/testbot/cmake/testbotConfig.cmake
+/home/pera/catkin_ws/devel/.private/testbot/share/testbot/cmake/testbotConfig-version.cmake /home/pera/catkin_ws/devel/share/testbot/cmake/testbotConfig-version.cmake

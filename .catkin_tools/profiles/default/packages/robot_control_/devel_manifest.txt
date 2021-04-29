@@ -1,0 +1,5 @@
+robot_control_
+/home/pera/catkin_ws/devel/.private/robot_control_/cmake.lock /home/pera/catkin_ws/devel/./cmake.lock
+/home/pera/catkin_ws/devel/.private/robot_control_/lib/pkgconfig/robot_control_.pc /home/pera/catkin_ws/devel/lib/pkgconfig/robot_control_.pc
+/home/pera/catkin_ws/devel/.private/robot_control_/share/robot_control_/cmake/robot_control_Config-version.cmake /home/pera/catkin_ws/devel/share/robot_control_/cmake/robot_control_Config-version.cmake
+/home/pera/catkin_ws/devel/.private/robot_control_/share/robot_control_/cmake/robot_control_Config.cmake /home/pera/catkin_ws/devel/share/robot_control_/cmake/robot_control_Config.cmake

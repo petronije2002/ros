@@ -1,0 +1,3 @@
+Symlinking /home/pera/catkin_ws/devel/lib/pkgconfig/testbot.pc
+Symlinking /home/pera/catkin_ws/devel/share/testbot/cmake/testbotConfig.cmake
+Symlinking /home/pera/catkin_ws/devel/share/testbot/cmake/testbotConfig-version.cmake

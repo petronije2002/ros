@@ -1,0 +1,5 @@
+Symlinking /home/pera/catkin_ws/devel/lib/pkgconfig/keyboard_pub.pc
+Symlinking /home/pera/catkin_ws/devel/lib/keyboard_pub/keyboard_list_node
+Symlinking /home/pera/catkin_ws/devel/lib/keyboard_pub/keyboard_pub_node
+Symlinking /home/pera/catkin_ws/devel/share/keyboard_pub/cmake/keyboard_pubConfig.cmake
+Symlinking /home/pera/catkin_ws/devel/share/keyboard_pub/cmake/keyboard_pubConfig-version.cmake

@@ -1,0 +1,3 @@
+Symlinking /home/pera/catkin_ws/devel/lib/pkgconfig/rrbot_description.pc
+Symlinking /home/pera/catkin_ws/devel/share/rrbot_description/cmake/rrbot_descriptionConfig-version.cmake
+Symlinking /home/pera/catkin_ws/devel/share/rrbot_description/cmake/rrbot_descriptionConfig.cmake

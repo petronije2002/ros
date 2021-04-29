@@ -1,0 +1,25 @@
+<launch>
+
+<include file="$(find robot_gazebo)/launch/robot.launch" />
+  <remap from="/cmd_pos" to="/robot/joint1_position_controller/command"/> -->
+
+   <param name="robot_description"
+        textfile='$(find robot_description)/urdf/robot_3d_camera.urdf'/>
+  
+    <!-- Run a python script to the send a service call to gazebo_ros to spawn a URDF robot -->
+   
+  
+    <node name="keypress_pub" pkg="keyboard_pub"  type="keyboard_pub_node"/>
+    <node name="poistion_pub" pkg="keyboard_pub"  type="keyboard_list_node"/>
+    <!-- <node name="filtered_publisher" pkg="keyboard_pub"  type="points_extractor_node"/> -->
+
+
+    <!-- <arg name="rvizconfig" default="$(find robot_description)/urdf.rviz" /> -->
+    <node name="rviz" pkg="rviz" type="rviz"  />
+
+    <!-- <include file="$(find darknet_ros)/launch/darknet_ros.launch" /> -->
+    <include file="$(find darknet_ros)/launch/yolo_v3.launch" /> 
+
+    <!-- <node name="tranform_publisher" pkg="tf" type="static_transform_publisher"  args="0 0 0 -1.571 0 -1.571  world cameraLeft_depth_link 10"/>   --> --> --> --> --> --> --> --> -->
+
+    </launch>

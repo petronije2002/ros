@@ -1,0 +1,2 @@
+darknet_ros/darknet_ros:darknet_ros/darknet_ros_msgs:keyboard_pub:robot_control_:robot_description:robot_gazebo
+-DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/home/pera/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pera/catkin_ws/install -G Unix Makefiles

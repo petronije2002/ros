@@ -1,0 +1,2 @@
+CMake Error: The source directory "/home/pera/catkin_ws/build/catkin_tools_prebuild/None -DCMAKE_EXPORT_COMPILE_COMMANDS=ON" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.

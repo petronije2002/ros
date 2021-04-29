@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target keyboard_list_node[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/keyboard_list_node.dir/src/listener.cpp.o[0m
+[ 50%] [32m[1mLinking CXX executable /home/pera/catkin_ws/devel/.private/keyboard_pub/lib/keyboard_pub/keyboard_list_node[0m
+[ 50%] Built target keyboard_list_node
+[35m[1mScanning dependencies of target keyboard_pub_node[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/keyboard_pub_node.dir/src/keyboard.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/pera/catkin_ws/devel/.private/keyboard_pub/lib/keyboard_pub/keyboard_pub_node[0m
+[100%] Built target keyboard_pub_node

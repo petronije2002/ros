@@ -1,0 +1,8 @@
+prefix=/home/pera/catkin_ws/install
+
+Name: robot_control_
+Description: Description of robot_control_
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
